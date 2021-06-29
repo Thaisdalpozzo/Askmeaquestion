@@ -1,6 +1,15 @@
 #ASK ME A QUESTION REACT
 
-*baixe o vídeo e veja como ficou: https://s3.ezgif.com/save/ezgif-3-512d5dbce71a.gif :)
+Fiz essa aplicação com diversas funcionalidades;
+-Faz login com a sua própria conta do Google.
+-Pode criar salar ou entrar em uma já existente.
+-Pode fazer perguntas (para quem é cliente) dar like em outras perguntas, excluir ou marcar como respondida.
+-Administradores podem marcar uma pergunta, marcar como lida, excluir ou então encerrar a sala de bate-papo.
+
+Feito com: JS,REACT/TYPESCRIPT,FIREBASE.
+
+
+*Fiz um vídeo, baixe e veja como ficou além dos prints.: https://s3.ezgif.com/save/ezgif-3-512d5dbce71a.gif :)
 
 
 ![Captura de Tela (111)](https://user-images.githubusercontent.com/66601480/123842536-45801900-d8e7-11eb-8ba7-77da46b9e5b2.png)
@@ -9,6 +18,8 @@
 ![Captura de Tela (114)](https://user-images.githubusercontent.com/66601480/123842758-837d3d00-d8e7-11eb-9d90-9ecd2673e481.png)
 ![Captura de Tela (115)](https://user-images.githubusercontent.com/66601480/123842769-8710c400-d8e7-11eb-8c30-d51ee8f45057.png)
 ![Captura de Tela (116)](https://user-images.githubusercontent.com/66601480/123842788-8d06a500-d8e7-11eb-881b-6078ac64e0c0.png)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
