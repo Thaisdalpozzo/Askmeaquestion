@@ -2,7 +2,7 @@
 
 Fiz essa aplicação com diversas funcionalidades;
 -Faz login com a sua própria conta do Google.
--Pode criar salar ou entrar em uma já existente.
+-Pode criar sala ou entrar em uma já existente.
 -Pode fazer perguntas (para quem é cliente) dar like em outras perguntas, excluir ou marcar como respondida.
 -Administradores podem marcar uma pergunta, marcar como lida, excluir ou então encerrar a sala de bate-papo.
 
